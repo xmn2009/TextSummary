@@ -6,7 +6,7 @@
 
 ## Insturctions:
 
-* <filename>: required
+* \<filename\>: required
 * -c <string>[integer]: if specified, the  textsummary utility will add the number of times the provided <string> appears in the line to the start of each line in the file. 
 * -d [integer]: if specified, the textsummary utility will output the words (where a word is any sequence of alphanumeric characters)  which are duplicated the most times throughout the file, and the number of times each appears. 
 * -l|-s [integer]: if specified, the textsummary utility will keep only the longest(-l) or shortest(-s) [integer](a required positive integer) lines in the file. 
