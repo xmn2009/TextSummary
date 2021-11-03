@@ -2,7 +2,7 @@
 
 1. Java application for analyzing text within a file.
 2. Extend the test set in a black-box fashion to debug the alternative implementation
-3. Agile, test-driven process
+3. a agile, test-driven process
 
 ## Insturctions:
 
